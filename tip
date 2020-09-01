@@ -1,0 +1,15 @@
+===================================
+global
+clang
+llvm
+clangd
+gcc
+g++
+gdb
+vim
+===================================
+eglot
+company
+ace-window
+ggtags
+solarized-theme
